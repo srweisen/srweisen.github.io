@@ -8,7 +8,7 @@ about:
   links:
     # Available icons: https://icons.getbootstrap.com/
     - icon: twitter
-      text: twitter
+      text: Twitter
       href: https://twitter.com/ShelbyWeisen
   #  - icon: github
    #   text: Github
