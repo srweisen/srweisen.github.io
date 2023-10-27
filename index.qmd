@@ -3,19 +3,19 @@ title: "Shelby Weisen"
 about:
   # Templates include: jolla, trestles, solana, marquee, or broadside
   # https://quarto.org/docs/websites/website-about.html
-  template: jolla
-  image: img/iggy.jpg
+  template: solana
+  image: img/SW_Fall23_HeadshotNew.jpg
   links:
     # Available icons: https://icons.getbootstrap.com/
     - icon: twitter
       text: twitter
-      href: https://twitter.com
-    - icon: github
-      text: Github
-      href: https://github.com
-    - icon: linkedin
-      text: LinkedIn
-      href: https://linkedin.com
+      href: https://twitter.com/ShelbyWeisen
+  #  - icon: github
+   #   text: Github
+    #  href: https://github.com
+    #- icon: linkedin
+     # text: LinkedIn
+      #href: https://linkedin.com
 ---
 
 Iggy is the Chief Beggar at Three Bark Manor. When not innovating naptime, Iggy enjoys dinner.
