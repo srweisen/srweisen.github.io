@@ -10,6 +10,9 @@ about:
     - icon: twitter
       text: Twitter
       href: https://twitter.com/ShelbyWeisen
+    - icon: envelope-fill
+      text: Email
+      href: mailto:weise207@umn.edu
   #  - icon: github
    #   text: Github
     #  href: https://github.com
