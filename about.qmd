@@ -3,20 +3,22 @@ title: "CV"
 ---
 
 ## Education
-<pre style="font-family:roboto; color:#525456">
 <b>University of Minnesota, Twin Cities [Fall 2019 – Current] </b>
-&emsp;&emsp;Educational Psychology MA & PhD Program
+<br>&emsp;&emsp;Educational Psychology MA & PhD Program </br>
 &emsp;&emsp;Psychological Foundations Social Track
+
    
 <b>College of Saint Benedict/Saint John’s University [Fall 2012 – Spring 2016] </b>
-&emsp;&emsp; Psychology Major, German Minor
-&emsp;&emsp; Distinction in Psychology, BA Obtained
+<br>&emsp;&emsp;Psychology Major, German Minor </br>
+&emsp;&emsp;Distinction in Psychology, BA Obtained
 
-<b>Saint John’s Preparatory High School [Fall 2007 – Spring 2012] </b> </pre>
+<b>Saint John’s Preparatory High School [Fall 2007 – Spring 2012] </b>
+
+## Teaching Experience
+
+<b>UMN Student Learning & Social Psychology of Education Teaching Assistant [Fall 2021 – Current] </b>
+<p style="margin-left: 50px;">Assisting in the creation and revamping of course materials through implementation of new learning techniques, grading assignments, reviewing discussion posts, taking attendance, and aiding students in their studying and understanding of challenging course concepts </p>
 
 
-## Research, Teaching, and Work Experience
-
-UMN Student Learning & Social Psychology of Education Teaching Assistant, Fall 2021 – Current
-
-<p>&emsp;&emsp; Assisting in the creation and revamping of course materials through implementation of new learning techniques, grading assignments, reviewing discussion posts, taking attendance, and aiding students in their studying and understanding of challenging course concepts </p>
+<b>UMN Psychological Science Applied Teaching Assistant [Fall 2019 – Spring 2021] </b>
+<p style="margin-left: 50px;">Teaching lab sections to apply the concepts learned in lecture, helping to create and revamp course material through implementation of new learning technologies, grading assignments, and aiding students in their studying and understanding of the more challenging course concepts </p>
